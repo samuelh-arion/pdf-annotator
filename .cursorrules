@@ -1,0 +1,11 @@
+Definition of Done:
+
+- All the packages are installed and working.
+- The code is implemented.
+- We have tests for the code.
+- All lint errors are fixed.
+- We added some documentation.
+
+Rules:
+
+- Always make sure the task is done before moving on to the next task.
