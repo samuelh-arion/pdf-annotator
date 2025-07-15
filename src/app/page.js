@@ -11,6 +11,16 @@ export default function Home() {
         minimalist interface.
       </p>
 
+      <div className="w-full max-w-3xl aspect-video">
+        <iframe
+          src="https://www.loom.com/embed/19151676546b4b52b056bab4d6d7e580?sid=1289fe6b-6257-4bd6-b6e6-59b2b38edeed"
+          title="Annotator walkthrough video"
+          allowFullScreen
+          frameBorder="0"
+          className="w-full h-full rounded shadow-lg"
+        />
+      </div>
+
       <div className="flex gap-4">
         <Link
           href="/annotate"
